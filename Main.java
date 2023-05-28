@@ -1,5 +1,3 @@
-package JavaCore.Chapter1.Homework2;
-
 public class Main {
     public static void main(String[] args) {
         OnTaskDoneListener listener = System.out::println;
