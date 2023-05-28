@@ -1,5 +1,3 @@
-package JavaCore.Chapter1.Homework2;
-
 public class Worker {
     private OnTaskDoneListener callback;
     private OnTaskErrorListener errorCallback;
